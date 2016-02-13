@@ -9,7 +9,7 @@ function translatePhrase(phrase) {
   console.log("translated to Gibberish", Translator.translateToGibberish(phraseArray));
   console.log("translated to Spanish", Translator.translateToSpanish(phraseArray));
   console.log("translated to French", Turtle.translateToFrench(phraseArray));
-  console.log("Translator", Translator);
+  console.log("Translator", Translator);    
 }
 
 

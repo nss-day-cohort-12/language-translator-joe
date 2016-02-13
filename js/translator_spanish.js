@@ -1,4 +1,4 @@
-var Turtle = (function(spanish) {
+var Translator = (function(spanish) {
   var spanishLexicon = {
     happy: "Feliz",
     holidays: "Navidad"
